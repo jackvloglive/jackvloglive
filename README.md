@@ -1,4 +1,4 @@
-# King SyntaxSavy Kingdom 
+# King SyntaxSavy 
 
 </span>
 
