@@ -1,4 +1,6 @@
-# King SyntaxSavy Kingdom
+# <img width="100px" style="border-radius: 50%; margin-right: 15px;" src="Capbragamingpfp.jpg" alt="Profile Picture"/> <span style="font-size: 2em; font-weight: bold;">King SyntaxSavy Kingdom</span>
+
+</span>
 
 <img align="centre" src="attackontitanwallpapergif.gif"/>
 
@@ -18,8 +20,12 @@ I’m a neurodivergent full-stack engineer from New Zealand pushing to make my s
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<br/>
+<br/>
 
 ---
+
+<br/>
 
 ### Stats
 
