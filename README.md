@@ -1,4 +1,4 @@
-# <img width="100px" style="border-radius: 50%; margin-right: 15px;" src="Capbragamingpfp.jpg" alt="Profile Picture"/> <span style="font-size: 2em; font-weight: bold;">King SyntaxSavy Kingdom</span>
+# King SyntaxSavy Kingdom 
 
 </span>
 
