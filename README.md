@@ -11,6 +11,7 @@ I’m a neurodivergent full-stack engineer from New Zealand pushing to make my s
 ---
 
 The NeuroLounge – Learning & Support
+
 🌟 Founder of The NeuroLounge – A supportive space dedicated to helping neurodivergent individuals thrive.
 
 🤖 Learning Bot Integration – Designed to assist with studying, learning resources, and accessibility tools.
