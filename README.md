@@ -10,7 +10,7 @@ I’m a neurodivergent full-stack engineer from New Zealand pushing to make my s
 
 ---
 
-The NeuroLounge – Learning & Support
+The NeuroLounge – Learning & Support(Currently Not active)
 
 🌟 Founder of The NeuroLounge – A supportive space dedicated to helping neurodivergent individuals thrive.
 
