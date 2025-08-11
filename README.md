@@ -18,8 +18,6 @@ The NeuroLounge – Learning & Support(Currently Not active)
 
 📚 Peer Mentoring & Guidance – Connect with others, gain insights, and work towards personal growth.
 
-Join the community: https://discord.gg/wMzAeAcdy4
-
 ---
 
 ### Languages & Tools
