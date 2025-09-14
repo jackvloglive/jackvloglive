@@ -4,7 +4,7 @@
 
 <img align="centre" src="attackontitanwallpapergif.gif"/>
 
-**`Digital Craftman`**
+**`Digital Craftman/Jack Of All Trades`**
 
 I’m a neurodivergent full-stack engineer from New Zealand pushing to make my space in the world one step at a time. All my projects are designed from the ground up and built for practice and experience. Design and programming gave me an escape to work visually and with my hands in a stress-free environment.
 
